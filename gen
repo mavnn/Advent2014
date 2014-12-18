@@ -1,0 +1,2 @@
+mono ./packages/FAKE/tools/FAKE.exe gen.fsx
+mono ./App.exe
